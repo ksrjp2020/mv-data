@@ -1,0 +1,16 @@
+{
+	"data": [
+		{
+			"table": "2020/03/00",
+			"table2": "Twitter",
+			"table3": "クマノイ先生　新刊告知",
+			"painting": [
+				{
+					"image": "image/001.png",
+					"name": "001",
+					"@type": "Painting"
+				}
+			]
+		}
+	]
+}
