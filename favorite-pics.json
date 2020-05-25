@@ -13,9 +13,23 @@
 			]
 		},
 		{
+			"table": "2020/05/25",
+			"table2": "HP",
+			"table3": "埼玉県立北川辺高等学校",
 			"painting": [
 				{
-					"name": "Index2",
+					"image": "image/002.gif",
+					"name": "002",
+					"@type": "Painting"
+				},
+				{
+					"image": "image/003.jpg",
+					"name": "003",
+					"@type": "Painting"
+				},
+				{
+					"image": "image/004.jpg",
+					"name": "004",
 					"@type": "Painting"
 				}
 			]
