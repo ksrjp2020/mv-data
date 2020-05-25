@@ -7,7 +7,15 @@
 			"painting": [
 				{
 					"image": "image/001.png",
-					"name": "001",
+					"name": "クマノイ先生新刊",
+					"@type": "Painting"
+				}
+			]
+		},
+		{
+			"painting": [
+				{
+					"name": "Index2",
 					"@type": "Painting"
 				}
 			]
